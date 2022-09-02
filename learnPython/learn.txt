@@ -1,0 +1,14 @@
+classes are created like this.
+class Node:
+  def.....
+
+Note: Always indent your functions.
+
+don't do class Node() : 
+
+#the node is not a function but a class.
+
+
+
+How do you iterate through a dictionary value?
+To iterate through a dictionary in Python, there are four main approaches you can use: create a for loop, use items() to iterate through a dictionary's key-value pairs, use keys() to iterate through a dictionary's keys, or use values() to iterate through a dictionary's values.

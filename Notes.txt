@@ -1,0 +1,18 @@
+
+Things I have learnt from this course
+When calling the function, it should not be indented.
+
+When using functions no,you check this example out. 
+
+
+name = "samuel"
+def greeting(name):
+     name = "Akinie"
+     print(f"{name} ");
+print(f"{name}")
+ here the printf will display samuel because you did not indent it and this will mean you are running it outside of the function but when you indent it, it will mean it is still part of the function.
+ 
+
+greeting(name);
+
+
