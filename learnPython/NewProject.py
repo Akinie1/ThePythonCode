@@ -79,21 +79,3 @@ contact = Contact();
 
 
 
-# This gives you Samuel already exists
-# contact.add("samuel","45");
-# print(contact.add('samuel',30));
-
-# # Note we don't say contact.self.name();
-# print(contact.name);
-
-# print(contact.delete("menzgold"));
-
-
-# print(contact.search("samuel"));
-
-
-
-
-# ideas
-
-# print(key, '->', a_dict[key])
